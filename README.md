@@ -1,4 +1,4 @@
-# gpt_pomodoro
+# pomodoro
 
 A new Flutter project.
 
